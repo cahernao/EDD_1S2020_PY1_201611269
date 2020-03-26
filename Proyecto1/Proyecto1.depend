@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1585253388 source:c:\users\cx\documents\u\2020s1\edd\proyecto1\main.cpp
+	<iostream>
+	"EDD\jugador.h"
+	"STATIC\estaticos.h"
+
+1585262538 c:\users\cx\documents\u\2020s1\edd\proyecto1\edd\jugador.h
+	"listaSimpl.h"
+
+1585251632 source:c:\users\cx\documents\u\2020s1\edd\proyecto1\static\stat.cpp
+	"stat.h"
+
+1585252296 c:\users\cx\documents\u\2020s1\edd\proyecto1\static\stat.h
+
+1585253382 c:\users\cx\documents\u\2020s1\edd\proyecto1\static\estaticos.h
+
+1585262568 c:\users\cx\documents\u\2020s1\edd\proyecto1\edd\listasimpl.h
+	"nodoSimple.h"
+
+1585262601 c:\users\cx\documents\u\2020s1\edd\proyecto1\edd\nodosimple.h
+
