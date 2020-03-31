@@ -1,0 +1,7 @@
+digraph G{
+rankdir =LR
+;node[shape=box];
+"Pedro,41"->"Pedro,31"
+"Pedro,31"->"Pedro,21"
+"Pedro,21"->"Pedro,10"
+}

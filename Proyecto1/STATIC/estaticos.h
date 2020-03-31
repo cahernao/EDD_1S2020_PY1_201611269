@@ -22,7 +22,7 @@ string estaticos::damemiNombre(){
 
 int estaticos::prueba(){
     int aa;
-    cout<<"Ingrese el dato: ";
+    cout<<"     Ingrese el dato: ";
     cin>>aa;
     return aa;
 }
